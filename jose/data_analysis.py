@@ -1,6 +1,5 @@
 import pandas as pd
 
-dados = open("/home/george/Área de Trabalho/matheus/projeto aeroporto atualizado/jose", 'r')
-
-data = pd.read_csv(dados, error_bad_lines=False)
+url = "https://raw.githubusercontent.com/georgematheuslima/projeto-aeroporto/master/jose/diaria.txt?token=AOPHFUQ4XG6Z7KCBZKGP4Y27IV6PG"
+data = pd.read_csv(url, encoding='latin-1')
 print(data)
