@@ -1,5 +1,5 @@
 data,kmsaida,kmchegada,kmrodados,destino,valor(r$),pagamento,combustivel(total),
-26/06,100092,100133,35,ponta do farol,59,cartaoao,158.03
+26/06,100092,100133,35,ponta do farol,59,cartao,158.03
 26/06,100133,100156,23,cohama,57,voucher,200.01
 26/06,100156,100183,27,centro,54,voucher
 26/06,100183,100210,27,centro,54,voucher
