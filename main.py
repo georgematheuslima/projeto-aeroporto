@@ -1,3 +1,4 @@
+'''
 from datetime import date
 import math
 
@@ -23,29 +24,7 @@ if mot == 1:
         carro1 = ('nissan Versa')
     else:
         print('veículo não cadastrado')
-if mot == 1:
-    def total(dados):
-        s = 0
-        for i in range(0, len(dados)):
-            s = s + dados[i]
-        return s
 
-
-    def gasto(gasto):
-        s = 0
-        for i in range(0, len(gasto)):
-            s = s + gasto[i]
-        return s
-
-
-    def carregadados(nomearq, a):
-        temp = []
-        arq = open(nomearq, 'r')
-        linhas = arq.readlines()
-        for linha in linhas:
-            temp.append(float(linha) + a)
-        arq.close()
-        return temp
 
 
     a = 0
@@ -133,3 +112,4 @@ if mot == 2:
         prt.close()
     else:
         print('Erro no veículo')
+'''
