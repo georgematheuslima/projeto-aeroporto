@@ -1,9 +1,9 @@
-data,kmsaida,kmchegada,kmrodados,destino,valor(r$),pagamento,combustivel(total),
-26/06,100092,100133,35,ponta do farol,59,cartaoao,158.03
+data,kmsaida,kmchegada,kmrodados,destino,valor,pagamento,combustivel
+26/06,100092,100133,35,ponta do farol,59,cartao,158.03
 26/06,100133,100156,23,cohama,57,voucher,200.01
-26/06,100156,100183,27,centro,54,voucher
-26/06,100183,100210,27,centro,54,voucher
-26/06,100210,100222,12,particular,0,nao,0
+26/06,100156,100183,27,centro,54,voucher,0
+26/06,100183,100210,27,centro,54,voucher,0
+26/06,100210,100222,12,particular,0,0,0
 27/06,100222,100249,27,centro,54,voucher,0
 27/06,100249,100272,23,cohama,57,voucher,0
 27/06,100272,100295,23,cohama,57,voucher,0
@@ -12,12 +12,12 @@ data,kmsaida,kmchegada,kmrodados,destino,valor(r$),pagamento,combustivel(total),
 27/06,100353,100387,34,ponta d'areia,59,cartao,0
 28/06,100387,100419,32,renascenca,54,cartao,0
 28/06,100419,100454,35,ponta do farol,65,dinheiro,0
-28/06,100454,100466,12,particular,0,0
-29/06,0,0,0,0,0
+28/06,100454,100466,12,particular,0,0,0
+29/06,0,0,0,0,0,0,0
 30/06,100466,100497,31,olho d'agua,54,cartao,0
 30/06,100497,100532,35,ponta do farol,59,cartao,0
 30/06,100532,100565,33,calhau,59,cartao,0
 30/06,100565,100599,34,ponta d'areia,59,cartao,0
 30/06,100599,100613,14,santa cruz,36,cartao,0
-30/06,100613,100625,12,particular,0,0
+30/06,100613,100625,12,particular,0,0,0
 

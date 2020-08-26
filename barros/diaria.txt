@@ -1,31 +1,31 @@
-data	kmsaída	kmchegada	km rodados	destino		valor(r$)	pagamento	Combustível(total)
+data	kmsaÃ­da	kmchegada	km rodados	destino		valor	pagamento	CombustÃ­vel(total)
 09/jun	1094	1107		13		cohab		35.00		din		158.03
 09/jun	1107	1132		25		centro		50.00		din		200.01
 09/jun	1132	1166		34		ponta da areia	60.00		din
 09/jun	1166	1201		35		ponta da areia	65.00		din
-09/jun	1201	1232		31		renascença	60.00		cart
-09/jun	1232	1244		12		iP.S.cristovão	35.00		din
+09/jun	1201	1232		31		renascenÃ§a	60.00		cart
+09/jun	1232	1244		12		iP.S.cristovÃ£o	35.00		din
 09/jun	1244	1260		16		Particular	0.00		none
-10/jun	1260	1291		31		renascença	55.00		cart
-10/jun	1291	1323		32		renascença	55.00		cart
-10/jun	1323	1354		31		renascença	50.00		din
+10/jun	1260	1291		31		renascenÃ§a	55.00		cart
+10/jun	1291	1323		32		renascenÃ§a	55.00		cart
+10/jun	1323	1354		31		renascenÃ§a	50.00		din
 10/jun	1354	1389		35		ponta do farol	60.00		din
 10/jun	1389	1424		35		ponta da areia	60.00		cart
-10/jun	1424	1455		31		renascença	50.00		din
+10/jun	1424	1455		31		renascenÃ§a	50.00		din
 10/jun	1455	1473		18		Particular	0		none
 11/jun	1473	1491		18		cohatrac	45.00		din
-11/jun	1491	1499		8		são cristovão	30.00		din
-11/jun	1499	1530		31		renascença	55.00		din
+11/jun	1491	1499		8		sÃ£o cristovÃ£o	30.00		din
+11/jun	1499	1530		31		renascenÃ§a	55.00		din
 11/jun	1530	1565		35		ponta da areia	75.00		vou
 11/jun	1565	1583		18		Particular	0		none
 12/jun	x	x	x			carro parado	0		x
 13/jun	1583	1613		30		olho d'agua	60.00		din
-13/jun	1613	1643		30		renascença	50.00		din
-13/jun	1643	1682		39		araçagy		70.00		din
+13/jun	1613	1643		30		renascenÃ§a	50.00		din
+13/jun	1643	1682		39		araÃ§agy		70.00		din
 13/jun	1682	1708		26		centro		50.00		din
 13/jun	1708	1726		16		Particular	0		none
 14/jun	1726	1746		20		angelim		40.00		cart
-14/jun	1746	1788		42		pirâmide	75.00		din
+14/jun	1746	1788		42		pirÃ¢mide	75.00		din
 14/jun	1788	1824		36		ponta da areia	75.00		vou
 14/jun	1824	1858		34		ponta da areia	60.00		cart
 14/jun	1858	1915		57		sj ribamar	80.00		din
