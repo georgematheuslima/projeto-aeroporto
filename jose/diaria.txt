@@ -13,11 +13,11 @@ data,kmsaida,kmchegada,kmrodados,destino,valor,pagamento,combustivel(total)
 28/06,100387,100419,32,renascenca,54,cartao,0
 28/06,100419,100454,35,ponta do farol,65,dinheiro,0
 28/06,100454,100466,12,particular,0,0,0
-29/06,0,0,0,0,nao,0
+29/06,0,0,0,0,0,0,0
 30/06,100466,100497,31,olho d'agua,54,cartao,0
 30/06,100497,100532,35,ponta do farol,59,cartao,0
 30/06,100532,100565,33,calhau,59,cartao,0
 30/06,100565,100599,34,ponta d'areia,59,cartao,0
 30/06,100599,100613,14,santa cruz,36,cartao,0
-30/06,100613,100625,12,particular,0,0
+30/06,100613,100625,12,particular,0,0,0
 
