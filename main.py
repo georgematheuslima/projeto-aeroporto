@@ -113,3 +113,7 @@ if mot == 2:
     else:
         print('Erro no veículo')
 '''
+
+from diarias import valores_totais
+
+valores_totais()
